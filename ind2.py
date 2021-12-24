@@ -1,7 +1,8 @@
-
-
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 from packet import add, show_list, good, help
+
 
 if __name__ == '__main__':
     # Список учеников
